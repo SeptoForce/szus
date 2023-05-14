@@ -2,7 +2,6 @@
     display: flex;
     gap: var(--space-3);
     flex-direction: column;
-    background-image: url(../images/background.png);
 }
 
 .root .heading {
