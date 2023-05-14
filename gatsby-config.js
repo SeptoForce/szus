@@ -24,7 +24,7 @@ if (!spaceId || !accessToken) {
 // starter config
 module.exports = {
     siteMetadata: {
-        title: "Gatsby Starter Landing Page",
+        title: "Rent A Boat Porat",
         description:
             "Create custom landing pages using Gatsby and Contentful with this Gatsby Starter",
     },
@@ -36,10 +36,10 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Gatsby Starter Landing Page`,
-                short_name: `Gatsby Starter Landing Page`,
+                name: `Rent A Boat Porat`,
+                short_name: `Rent A Boat Porat`,
                 start_url: `/`,
-                background_color: `#000`,
+                background_color: `#fff`,
                 theme_color: `#000`,
                 display: `browser`,
                 icon: `src/assets/gatsby-monogram.png`,
